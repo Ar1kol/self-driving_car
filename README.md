@@ -7,7 +7,7 @@
 </a>
 &nbsp;
 <hr>
-<img src="images/main-screen.png" alt="self-driving car page screen">
+<img src="main-screen.png" alt="self-driving car page screen">
 
 <details>
   <summary>Table of Contents</summary>
